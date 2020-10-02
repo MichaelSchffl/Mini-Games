@@ -10,14 +10,14 @@ This fun and strategic game is played against the computer. The player has to gu
 
 The number is "0123"\
 The guess is "4135"\
-The computer's response is "bulls: 1 cows: 1"\
+The computer's response is "bulls: 1 cows: 1"
 
 The computer shows 1 bull (the 3) and 1 cow (the 1).\
 A special case arises if the guess contains a duplicate or a triplet:
 
 The number is "0123"\
 The guess is "0909"\
-The computer's response is "bulls: 0 cows: 1"\
+The computer's response is "bulls: 0 cows: 1"
 
 The computer goes through the guess and eliminates a digit once it's a cow or a bull, so it will only show up once in that case!
 Based on the  computer's response the player can make their next guess and gets another response from the computer, until the player's guess matches the number.
